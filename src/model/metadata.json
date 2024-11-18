@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"2.4.7","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2024-11-13T09:31:38.189Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["Body_Fat_5-9","Body_Fat_10-14","Body_Fat_15-19","Body_Fat_20-24","Body_Fat_25-29","Body_Fat_30-34","Body_Fat_35-39","Body_Fat_40-Above"],"imageSize":224}
